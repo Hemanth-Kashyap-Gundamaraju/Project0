@@ -1,0 +1,1 @@
+Developed a front-end-only clone of Google Search using HTML and CSS. The project included three distinct pages: a main search page, an image search page, and an advanced search page. Emphasized semantic HTML structure, responsive design, and user-friendly form input.
